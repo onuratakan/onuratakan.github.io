@@ -4,7 +4,6 @@ title: My Projects
 ---
 - [Decentra Network](https://github.com/Decentra-Network/Decentra-Network)
 - [MIXON](https://github.com/onuratakan/MIXON)
-- [(POW) Blockchain Network Infrustructure](https://github.com/onuratakan/POW-Blockchain-Network-Infrustructure)
 - [ONUR Voice Assistant](https://github.com/onuratakan/ONUR_Voice_Assistant)
 - [HACON](https://github.com/onuratakan/HACON)
 - [Site Seo Scanner](https://github.com/onuratakan/Site_Seo_Scanner)
@@ -17,3 +16,5 @@ title: My Projects
 - [Haimgard](https://github.com/onuratakan/Haimgard)
 - [Speed Calculator](https://github.com/onuratakan/speed_calculator)
 - [Blur Image](https://github.com/onuratakan/blur_image)
+- [My System Monitor](https://github.com/onuratakan/mysystemmonitor)
+- [GitHub Full Backup](https://github.com/onuratakan/GitHub-Backup)
