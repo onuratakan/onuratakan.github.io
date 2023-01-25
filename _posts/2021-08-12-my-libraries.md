@@ -14,3 +14,5 @@ title: My Libraries
 - [Haimgard](https://pypi.org/project/haimgard/) 
 - [Speed Calculator](https://pypi.org/project/speed-calculator/) 
 - [Blur Image](https://pypi.org/project/blur-image/) 
+- [My System Monitor](https://pypi.org/project/mysystemmonitor/) 
+- [GitHub Full Backup](https://pypi.org/project/github-full-backup/)
